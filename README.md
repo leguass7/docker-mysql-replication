@@ -145,7 +145,7 @@ Agora, configure uma chave SSH para o seu repositório no GitHub, para que você
 #### Clona o repositório
 
 1. Clone o repositório:
-   `git clone git@github.com:leguass7/docker-mysql-replication.git`
+   `cd ~/`, `git clone git@github.com:leguass7/docker-mysql-replication.git`
 2. Acesse o diretório do repositório:
    `cd docker-mysql-replication`
    crie um arquivo `.env` com as credenciais desejadas para o banco de dados.
