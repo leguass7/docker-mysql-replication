@@ -66,7 +66,9 @@ bind-address=0.0.0.0
 
 Tela de login do PhpMyAdmin
 
-![Tela de login do PhpMyAdmin](./.github/assests/screenshot-0.png) ![Tela de login do PhpMyAdmin](./.github/assests/screenshot-1.png)
+![Tela de login do PhpMyAdmin](./.github/assests/screenshot-0.png)
+
+![Tela de login do PhpMyAdmin](./.github/assests/screenshot-1.png)
 
 ---
 
